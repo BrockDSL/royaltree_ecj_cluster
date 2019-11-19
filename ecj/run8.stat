@@ -16,7 +16,7 @@
 
 
 Threads:  breed/1 eval/1
-Seed: -2056405381 
+Seed: -2053499213 
 Job: 0
 Setting up
 Processing GP Types
@@ -24,1003 +24,1003 @@ Processing GP Node Constraints
 Processing GP Function Sets
 Processing GP Tree Constraints
 Initializing Generation 0
-Subpop 0 best fitness of generation Fitness: 14.268861454046636
+Subpop 0 best fitness of generation Fitness: 10.456790123456791
 Generation 1
-Subpop 0 best fitness of generation Fitness: 14.281207133058983
+Subpop 0 best fitness of generation Fitness: 11.666666666666664
 Generation 2
-Subpop 0 best fitness of generation Fitness: 14.68861454046639
+Subpop 0 best fitness of generation Fitness: 12.555555555555554
 Generation 3
-Subpop 0 best fitness of generation Fitness: 15.222222222222221
+Subpop 0 best fitness of generation Fitness: 13.88888888888889
 Generation 4
-Subpop 0 best fitness of generation Fitness: 16.77777777777778
+Subpop 0 best fitness of generation Fitness: 16.222222222222218
 Generation 5
-Subpop 0 best fitness of generation Fitness: 17.11111111111111
+Subpop 0 best fitness of generation Fitness: 18.88888888888889
 Generation 6
-Subpop 0 best fitness of generation Fitness: 18.90946502057613
+Subpop 0 best fitness of generation Fitness: 23.244170096021943
 Generation 7
-Subpop 0 best fitness of generation Fitness: 22.176954732510286
+Subpop 0 best fitness of generation Fitness: 24.296296296296294
 Generation 8
-Subpop 0 best fitness of generation Fitness: 25.128943758573385
+Subpop 0 best fitness of generation Fitness: 28.148148148148145
 Generation 9
-Subpop 0 best fitness of generation Fitness: 25.659807956104252
+Subpop 0 best fitness of generation Fitness: 32.662094192958385
 Generation 10
-Subpop 0 best fitness of generation Fitness: 29.211248285322355
+Subpop 0 best fitness of generation Fitness: 33.05349794238683
 Generation 11
-Subpop 0 best fitness of generation Fitness: 31.2716049382716
+Subpop 0 best fitness of generation Fitness: 34.604481024234104
 Generation 12
-Subpop 0 best fitness of generation Fitness: 38.266575217192496
+Subpop 0 best fitness of generation Fitness: 39.14403292181069
 Generation 13
-Subpop 0 best fitness of generation Fitness: 39.648834019204386
+Subpop 0 best fitness of generation Fitness: 40.32876085962505
 Generation 14
-Subpop 0 best fitness of generation Fitness: 39.6639231824417
+Subpop 0 best fitness of generation Fitness: 40.991312299954274
 Generation 15
-Subpop 0 best fitness of generation Fitness: 40.587562871513484
+Subpop 0 best fitness of generation Fitness: 46.61682670324645
 Generation 16
-Subpop 0 best fitness of generation Fitness: 44.523090992226784
+Subpop 0 best fitness of generation Fitness: 48.09419295839048
 Generation 17
-Subpop 0 best fitness of generation Fitness: 44.96753543667123
+Subpop 0 best fitness of generation Fitness: 49.42752629172381
 Generation 18
-Subpop 0 best fitness of generation Fitness: 45.930498399634196
+Subpop 0 best fitness of generation Fitness: 50.13168724279835
 Generation 19
-Subpop 0 best fitness of generation Fitness: 46.48605395518975
+Subpop 0 best fitness of generation Fitness: 54.329218106995874
 Generation 20
-Subpop 0 best fitness of generation Fitness: 47.52537722908093
+Subpop 0 best fitness of generation Fitness: 55.88477366255143
 Generation 21
-Subpop 0 best fitness of generation Fitness: 48.84087791495199
+Subpop 0 best fitness of generation Fitness: 57.19341563786008
 Generation 22
-Subpop 0 best fitness of generation Fitness: 49.60402377686327
+Subpop 0 best fitness of generation Fitness: 57.5514403292181
 Generation 23
-Subpop 0 best fitness of generation Fitness: 50.39231824417009
+Subpop 0 best fitness of generation Fitness: 58.88477366255143
 Generation 24
-Subpop 0 best fitness of generation Fitness: 53.96707818930041
+Subpop 0 best fitness of generation Fitness: 61.798353909465014
 Generation 25
-Subpop 0 best fitness of generation Fitness: 53.989026063100134
+Subpop 0 best fitness of generation Fitness: 62.020576131687235
 Generation 26
-Subpop 0 best fitness of generation Fitness: 55.33744855967078
+Subpop 0 best fitness of generation Fitness: 62.279835390946495
 Generation 27
-Subpop 0 best fitness of generation Fitness: 55.47325102880658
+Subpop 0 best fitness of generation Fitness: 64.59259259259258
 Generation 28
-Subpop 0 best fitness of generation Fitness: 57.06858710562413
+Subpop 0 best fitness of generation Fitness: 64.59259259259258
 Generation 29
-Subpop 0 best fitness of generation Fitness: 57.92043895747599
+Subpop 0 best fitness of generation Fitness: 65.92592592592592
 Generation 30
-Subpop 0 best fitness of generation Fitness: 57.94787379972565
+Subpop 0 best fitness of generation Fitness: 66.0864197530864
 Generation 31
-Subpop 0 best fitness of generation Fitness: 58.982167352537715
+Subpop 0 best fitness of generation Fitness: 66.53086419753086
 Generation 32
-Subpop 0 best fitness of generation Fitness: 59.639231824417
+Subpop 0 best fitness of generation Fitness: 67.79012345679011
 Generation 33
-Subpop 0 best fitness of generation Fitness: 60.824417009602186
+Subpop 0 best fitness of generation Fitness: 67.81481481481481
 Generation 34
-Subpop 0 best fitness of generation Fitness: 61.2318244170096
+Subpop 0 best fitness of generation Fitness: 68.29629629629629
 Generation 35
-Subpop 0 best fitness of generation Fitness: 63.56515775034293
+Subpop 0 best fitness of generation Fitness: 69.44444444444443
 Generation 36
-Subpop 0 best fitness of generation Fitness: 63.836762688614535
+Subpop 0 best fitness of generation Fitness: 69.71604938271604
 Generation 37
-Subpop 0 best fitness of generation Fitness: 64.19478737997255
+Subpop 0 best fitness of generation Fitness: 70.6543209876543
 Generation 38
-Subpop 0 best fitness of generation Fitness: 64.3429355281207
+Subpop 0 best fitness of generation Fitness: 70.88888888888887
 Generation 39
-Subpop 0 best fitness of generation Fitness: 65.12071330589849
+Subpop 0 best fitness of generation Fitness: 71.50617283950616
 Generation 40
-Subpop 0 best fitness of generation Fitness: 67.7037037037037
+Subpop 0 best fitness of generation Fitness: 71.60493827160494
 Generation 41
-Subpop 0 best fitness of generation Fitness: 67.77777777777777
+Subpop 0 best fitness of generation Fitness: 72.38271604938271
 Generation 42
-Subpop 0 best fitness of generation Fitness: 68.92592592592592
+Subpop 0 best fitness of generation Fitness: 72.91358024691357
 Generation 43
-Subpop 0 best fitness of generation Fitness: 68.92592592592592
+Subpop 0 best fitness of generation Fitness: 73.82716049382715
 Generation 44
-Subpop 0 best fitness of generation Fitness: 69.33333333333333
+Subpop 0 best fitness of generation Fitness: 73.82716049382715
 Generation 45
-Subpop 0 best fitness of generation Fitness: 70.5514403292181
+Subpop 0 best fitness of generation Fitness: 74.2716049382716
 Generation 46
-Subpop 0 best fitness of generation Fitness: 70.6954732510288
+Subpop 0 best fitness of generation Fitness: 74.54320987654319
 Generation 47
-Subpop 0 best fitness of generation Fitness: 71.77366255144032
+Subpop 0 best fitness of generation Fitness: 74.97530864197529
 Generation 48
-Subpop 0 best fitness of generation Fitness: 71.77366255144032
+Subpop 0 best fitness of generation Fitness: 75.56790123456788
 Generation 49
-Subpop 0 best fitness of generation Fitness: 72.46502057613168
+Subpop 0 best fitness of generation Fitness: 75.86419753086417
 Generation 50
-Subpop 0 best fitness of generation Fitness: 72.46502057613168
+Subpop 0 best fitness of generation Fitness: 76.60082304526748
 Generation 51
-Subpop 0 best fitness of generation Fitness: 72.8724279835391
+Subpop 0 best fitness of generation Fitness: 76.77777777777777
 Generation 52
-Subpop 0 best fitness of generation Fitness: 73.6872427983539
+Subpop 0 best fitness of generation Fitness: 77.17283950617283
 Generation 53
-Subpop 0 best fitness of generation Fitness: 74.13168724279834
+Subpop 0 best fitness of generation Fitness: 77.26748971193415
 Generation 54
-Subpop 0 best fitness of generation Fitness: 74.13168724279834
+Subpop 0 best fitness of generation Fitness: 77.6543209876543
 Generation 55
-Subpop 0 best fitness of generation Fitness: 74.53086419753086
+Subpop 0 best fitness of generation Fitness: 78.35802469135801
 Generation 56
-Subpop 0 best fitness of generation Fitness: 75.90123456790123
+Subpop 0 best fitness of generation Fitness: 78.46913580246913
 Generation 57
-Subpop 0 best fitness of generation Fitness: 77.44444444444443
+Subpop 0 best fitness of generation Fitness: 78.9506172839506
 Generation 58
-Subpop 0 best fitness of generation Fitness: 77.85185185185185
+Subpop 0 best fitness of generation Fitness: 79.0864197530864
 Generation 59
-Subpop 0 best fitness of generation Fitness: 77.85185185185185
+Subpop 0 best fitness of generation Fitness: 79.80246913580245
 Generation 60
-Subpop 0 best fitness of generation Fitness: 78.0864197530864
+Subpop 0 best fitness of generation Fitness: 79.91358024691357
 Generation 61
-Subpop 0 best fitness of generation Fitness: 78.49382716049382
+Subpop 0 best fitness of generation Fitness: 80.04938271604937
 Generation 62
-Subpop 0 best fitness of generation Fitness: 78.55555555555554
+Subpop 0 best fitness of generation Fitness: 80.49382716049382
 Generation 63
-Subpop 0 best fitness of generation Fitness: 78.92592592592592
+Subpop 0 best fitness of generation Fitness: 80.83950617283949
 Generation 64
-Subpop 0 best fitness of generation Fitness: 79.66666666666666
+Subpop 0 best fitness of generation Fitness: 82.09876543209874
 Generation 65
-Subpop 0 best fitness of generation Fitness: 79.96296296296296
+Subpop 0 best fitness of generation Fitness: 82.09876543209874
 Generation 66
-Subpop 0 best fitness of generation Fitness: 80.07407407407408
+Subpop 0 best fitness of generation Fitness: 82.20987654320986
 Generation 67
-Subpop 0 best fitness of generation Fitness: 80.37037037037037
+Subpop 0 best fitness of generation Fitness: 82.54320987654319
 Generation 68
-Subpop 0 best fitness of generation Fitness: 81.07407407407408
+Subpop 0 best fitness of generation Fitness: 82.54320987654319
 Generation 69
-Subpop 0 best fitness of generation Fitness: 81.4074074074074
+Subpop 0 best fitness of generation Fitness: 83.01234567901233
 Generation 70
-Subpop 0 best fitness of generation Fitness: 81.48148148148147
+Subpop 0 best fitness of generation Fitness: 83.12345679012344
 Generation 71
-Subpop 0 best fitness of generation Fitness: 82.0
+Subpop 0 best fitness of generation Fitness: 83.38271604938271
 Generation 72
-Subpop 0 best fitness of generation Fitness: 82.40740740740739
+Subpop 0 best fitness of generation Fitness: 83.53086419753085
 Generation 73
-Subpop 0 best fitness of generation Fitness: 82.40740740740739
+Subpop 0 best fitness of generation Fitness: 83.90123456790123
 Generation 74
-Subpop 0 best fitness of generation Fitness: 82.55555555555554
+Subpop 0 best fitness of generation Fitness: 84.06172839506172
 Generation 75
-Subpop 0 best fitness of generation Fitness: 82.81481481481481
+Subpop 0 best fitness of generation Fitness: 84.40740740740739
 Generation 76
-Subpop 0 best fitness of generation Fitness: 83.22222222222221
+Subpop 0 best fitness of generation Fitness: 84.76543209876542
 Generation 77
-Subpop 0 best fitness of generation Fitness: 83.25925925925925
+Subpop 0 best fitness of generation Fitness: 85.02469135802468
 Generation 78
-Subpop 0 best fitness of generation Fitness: 83.44444444444444
+Subpop 0 best fitness of generation Fitness: 85.58024691358023
 Generation 79
-Subpop 0 best fitness of generation Fitness: 83.7037037037037
+Subpop 0 best fitness of generation Fitness: 85.58024691358023
 Generation 80
-Subpop 0 best fitness of generation Fitness: 83.88888888888889
+Subpop 0 best fitness of generation Fitness: 86.18518518518518
 Generation 81
-Subpop 0 best fitness of generation Fitness: 83.88888888888889
+Subpop 0 best fitness of generation Fitness: 86.23456790123456
 Generation 82
-Subpop 0 best fitness of generation Fitness: 84.4074074074074
+Subpop 0 best fitness of generation Fitness: 87.23456790123456
 Generation 83
-Subpop 0 best fitness of generation Fitness: 84.81481481481481
+Subpop 0 best fitness of generation Fitness: 87.53086419753086
 Generation 84
-Subpop 0 best fitness of generation Fitness: 84.81481481481481
+Subpop 0 best fitness of generation Fitness: 87.53086419753086
 Generation 85
-Subpop 0 best fitness of generation Fitness: 85.55555555555554
+Subpop 0 best fitness of generation Fitness: 87.97530864197529
 Generation 86
-Subpop 0 best fitness of generation Fitness: 85.55555555555554
+Subpop 0 best fitness of generation Fitness: 89.23456790123456
 Generation 87
-Subpop 0 best fitness of generation Fitness: 85.96296296296295
+Subpop 0 best fitness of generation Fitness: 89.30864197530863
 Generation 88
-Subpop 0 best fitness of generation Fitness: 85.96296296296295
+Subpop 0 best fitness of generation Fitness: 89.96296296296295
 Generation 89
-Subpop 0 best fitness of generation Fitness: 85.96296296296295
+Subpop 0 best fitness of generation Fitness: 90.90123456790121
 Generation 90
-Subpop 0 best fitness of generation Fitness: 85.96296296296295
+Subpop 0 best fitness of generation Fitness: 90.90123456790121
 Generation 91
-Subpop 0 best fitness of generation Fitness: 86.07407407407408
+Subpop 0 best fitness of generation Fitness: 91.38271604938271
 Generation 92
-Subpop 0 best fitness of generation Fitness: 86.5185185185185
+Subpop 0 best fitness of generation Fitness: 91.86419753086417
 Generation 93
-Subpop 0 best fitness of generation Fitness: 86.5185185185185
+Subpop 0 best fitness of generation Fitness: 91.86419753086419
 Generation 94
-Subpop 0 best fitness of generation Fitness: 86.5185185185185
+Subpop 0 best fitness of generation Fitness: 92.23456790123456
 Generation 95
-Subpop 0 best fitness of generation Fitness: 86.5185185185185
+Subpop 0 best fitness of generation Fitness: 92.30864197530863
 Generation 96
-Subpop 0 best fitness of generation Fitness: 86.92592592592592
+Subpop 0 best fitness of generation Fitness: 92.34567901234567
 Generation 97
-Subpop 0 best fitness of generation Fitness: 86.92592592592592
+Subpop 0 best fitness of generation Fitness: 92.60493827160492
 Generation 98
-Subpop 0 best fitness of generation Fitness: 86.92592592592592
+Subpop 0 best fitness of generation Fitness: 92.679012345679
 Generation 99
-Subpop 0 best fitness of generation Fitness: 87.29629629629629
+Subpop 0 best fitness of generation Fitness: 92.72839506172838
 Generation 100
-Subpop 0 best fitness of generation Fitness: 87.33333333333333
+Subpop 0 best fitness of generation Fitness: 93.04938271604937
 Generation 101
-Subpop 0 best fitness of generation Fitness: 87.33333333333333
+Subpop 0 best fitness of generation Fitness: 93.04938271604937
 Generation 102
-Subpop 0 best fitness of generation Fitness: 87.33333333333333
+Subpop 0 best fitness of generation Fitness: 93.28395061728395
 Generation 103
-Subpop 0 best fitness of generation Fitness: 87.5185185185185
+Subpop 0 best fitness of generation Fitness: 93.43209876543209
 Generation 104
-Subpop 0 best fitness of generation Fitness: 87.74074074074073
+Subpop 0 best fitness of generation Fitness: 93.91358024691357
 Generation 105
-Subpop 0 best fitness of generation Fitness: 87.81481481481481
+Subpop 0 best fitness of generation Fitness: 94.39506172839505
 Generation 106
-Subpop 0 best fitness of generation Fitness: 87.92592592592592
+Subpop 0 best fitness of generation Fitness: 94.43209876543209
 Generation 107
-Subpop 0 best fitness of generation Fitness: 87.92592592592592
+Subpop 0 best fitness of generation Fitness: 94.43209876543209
 Generation 108
-Subpop 0 best fitness of generation Fitness: 88.14814814814814
+Subpop 0 best fitness of generation Fitness: 95.2469135802469
 Generation 109
-Subpop 0 best fitness of generation Fitness: 88.14814814814814
+Subpop 0 best fitness of generation Fitness: 95.2469135802469
 Generation 110
-Subpop 0 best fitness of generation Fitness: 88.22222222222221
+Subpop 0 best fitness of generation Fitness: 95.2469135802469
 Generation 111
-Subpop 0 best fitness of generation Fitness: 88.22222222222221
+Subpop 0 best fitness of generation Fitness: 95.32098765432097
 Generation 112
-Subpop 0 best fitness of generation Fitness: 88.22222222222221
+Subpop 0 best fitness of generation Fitness: 95.32098765432097
 Generation 113
-Subpop 0 best fitness of generation Fitness: 88.22222222222221
+Subpop 0 best fitness of generation Fitness: 95.46913580246913
 Generation 114
-Subpop 0 best fitness of generation Fitness: 88.22222222222221
+Subpop 0 best fitness of generation Fitness: 95.46913580246913
 Generation 115
-Subpop 0 best fitness of generation Fitness: 88.22222222222221
+Subpop 0 best fitness of generation Fitness: 95.69135802469134
 Generation 116
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 96.20987654320987
 Generation 117
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 96.39506172839505
 Generation 118
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 96.69135802469135
 Generation 119
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 96.76543209876542
 Generation 120
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 96.87654320987653
 Generation 121
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 97.58024691358024
 Generation 122
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 97.58024691358024
 Generation 123
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 97.65432098765432
 Generation 124
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 97.69135802469135
 Generation 125
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 98.02469135802468
 Generation 126
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 98.02469135802468
 Generation 127
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 98.1358024691358
 Generation 128
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 98.2469135802469
 Generation 129
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 98.2469135802469
 Generation 130
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 98.32098765432097
 Generation 131
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 98.35802469135801
 Generation 132
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 98.35802469135801
 Generation 133
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 98.43209876543209
 Generation 134
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 98.5432098765432
 Generation 135
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 98.5432098765432
 Generation 136
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 98.87654320987653
 Generation 137
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 98.87654320987653
 Generation 138
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 98.87654320987653
 Generation 139
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 99.2469135802469
 Generation 140
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 99.2469135802469
 Generation 141
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 99.32098765432097
 Generation 142
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 100.61728395061728
 Generation 143
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 100.61728395061728
 Generation 144
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 100.72839506172838
 Generation 145
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 100.74074074074072
 Generation 146
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 101.18518518518518
 Generation 147
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 101.33333333333331
 Generation 148
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 101.33333333333331
 Generation 149
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 101.7037037037037
 Generation 150
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 101.7037037037037
 Generation 151
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 101.77777777777776
 Generation 152
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 101.77777777777776
 Generation 153
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 102.07407407407408
 Generation 154
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 102.07407407407408
 Generation 155
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 103.22222222222221
 Generation 156
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 103.25925925925925
 Generation 157
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 103.25925925925925
 Generation 158
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 103.29629629629629
 Generation 159
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 103.66666666666667
 Generation 160
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.44444444444443
 Generation 161
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.44444444444443
 Generation 162
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.44444444444443
 Generation 163
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148147
 Generation 164
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148147
 Generation 165
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148147
 Generation 166
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148148
 Generation 167
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148148
 Generation 168
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148148
 Generation 169
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148148
 Generation 170
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148148
 Generation 171
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148148
 Generation 172
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148148
 Generation 173
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148148
 Generation 174
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148148
 Generation 175
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148148
 Generation 176
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148148
 Generation 177
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148148
 Generation 178
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148148
 Generation 179
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148148
 Generation 180
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148148
 Generation 181
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148148
 Generation 182
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148148
 Generation 183
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148148
 Generation 184
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148148
 Generation 185
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148148
 Generation 186
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.48148148148148
 Generation 187
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.62962962962963
 Generation 188
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.62962962962963
 Generation 189
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.66666666666667
 Generation 190
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 104.96296296296296
 Generation 191
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.07407407407408
 Generation 192
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.14814814814815
 Generation 193
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.51851851851852
 Generation 194
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.51851851851852
 Generation 195
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.5925925925926
 Generation 196
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 197
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 198
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 199
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 200
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 201
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 202
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 203
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 204
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 205
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 206
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 207
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 208
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 209
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 210
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 211
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 212
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 213
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 214
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 215
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 216
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 217
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 218
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 219
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 220
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 221
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 222
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 223
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 224
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 225
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 226
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 227
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 228
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 229
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 230
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 231
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 232
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 233
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 234
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 235
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 236
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 237
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 238
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 239
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 240
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 241
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 242
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 243
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 244
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 245
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 246
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 247
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 248
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 249
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 250
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 251
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 252
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 253
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 254
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 255
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 256
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 257
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 258
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 259
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 260
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 261
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 262
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 263
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 264
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 265
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 266
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 267
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 268
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 269
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 270
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 271
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 272
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 273
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 274
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 275
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 276
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 277
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 278
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 279
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 280
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 281
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 282
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 283
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 284
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 285
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 286
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 287
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 288
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 289
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 290
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 291
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 292
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 293
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 294
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 295
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 296
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 297
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 298
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 299
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 300
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 301
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 302
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 303
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 304
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 305
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 306
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 307
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 308
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 309
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 310
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 311
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 312
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 313
-Subpop 0 best fitness of generation Fitness: 88.33333333333333
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 314
-Subpop 0 best fitness of generation Fitness: 88.44444444444444
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 315
-Subpop 0 best fitness of generation Fitness: 88.44444444444444
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 316
-Subpop 0 best fitness of generation Fitness: 88.44444444444444
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 317
-Subpop 0 best fitness of generation Fitness: 88.44444444444444
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 318
-Subpop 0 best fitness of generation Fitness: 88.44444444444444
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 319
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 320
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 321
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 322
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 323
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 324
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 325
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 326
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 327
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 328
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 329
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 330
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 331
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 332
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 333
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 334
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 335
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 336
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 337
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 338
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 339
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 340
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 341
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 342
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 343
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 344
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 345
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 346
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 347
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 348
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 349
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 350
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 351
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 352
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 353
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 354
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 355
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 356
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 357
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 358
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 359
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 360
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 361
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 362
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 363
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 364
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 365
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 366
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 367
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 368
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 369
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 370
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 371
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 372
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 373
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 374
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 375
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 376
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 377
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 378
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 379
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 380
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 381
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 382
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 383
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 384
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 385
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 386
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 387
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 388
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 389
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 390
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 391
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 392
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 393
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 394
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 395
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 396
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 397
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 398
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 399
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 400
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 401
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 402
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 403
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 404
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 405
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 406
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 407
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 408
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 409
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 410
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 411
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 412
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 413
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 414
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 415
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 416
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 417
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 418
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 419
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 420
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 421
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 422
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 423
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 424
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 425
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 426
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 427
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 428
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 429
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 430
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 431
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 432
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 433
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 434
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 435
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 436
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 437
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 438
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 439
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 440
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 441
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 442
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 443
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 444
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 445
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 446
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 447
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 448
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 449
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 450
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 451
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 452
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 453
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 454
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 455
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 456
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 457
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 458
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 459
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 460
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 461
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 462
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 463
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 464
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 465
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 466
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 467
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 468
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 469
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 470
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 471
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 472
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 473
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 474
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 475
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 476
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 477
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 478
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 479
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 480
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 481
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 482
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 483
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 484
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 485
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 486
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 487
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 488
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 489
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 490
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 491
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 492
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 493
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 494
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 495
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 496
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 497
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 498
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
 Generation 499
-Subpop 0 best fitness of generation Fitness: 88.55555555555554
-Subpop 0 best fitness of run: Fitness: 88.55555555555554
+Subpop 0 best fitness of generation Fitness: 105.96296296296296
+Subpop 0 best fitness of run: Fitness: 105.96296296296296
