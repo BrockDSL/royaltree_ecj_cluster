@@ -36,7 +36,7 @@ Fitness is calculated by comparing to the target tree, in a
 complicated formula as follow (based on the description in "Program
 Distribution Estimation with Grammar Models", Yin Shan, 2005):
 
----
+
 The raw fitness of the tree (or any sub-tree) is the score of its
 root. Each node calculates its score by summing the weighted scores of
 its direct children. If the child is a perfect tree of the appropriate
@@ -69,7 +69,7 @@ Finally, if the resulting tree is itself complete, then a very
 large credit is given. The reasoning behind the increase in arity
 required at each increased level of the royal tree is to introduce
 tunable difficulty.
----
+
 
 The aim is to make the largest possible complete tree. In other words,
 (B (A x) (A x)) is always better than (A x). There is no sense of a
