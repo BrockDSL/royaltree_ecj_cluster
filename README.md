@@ -4,6 +4,13 @@
 - clone repo
 - unpack ecj v 23 into ecj folder
 
+for bash 
+- navigate to ecj folder
+- java ec.Evolve -file ./ec/app/royaltree/royaltree.params
+
+for executable
+- run .bat files
+
 ## Running
 - xml file has job details to reload in HPC manager
 
