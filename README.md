@@ -18,6 +18,8 @@ for executable
 - out?.stat is the stats file associated with each run
 - run?.stat is the redirected st_err which has the fitness stats
 
+## Analysis and conversion to CSV
+- run parse_data_script.py inside the folder of the .stat files you wish to convert
 
 
 # royaltree ECJ
