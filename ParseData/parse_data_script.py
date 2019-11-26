@@ -2,7 +2,8 @@
 """
 Created on Tue Nov 26 10:53:24 2019
 
-@author: Dylan Souvage-
+@author: Dylan Souvage
+
 """
 import re
 import os
@@ -51,12 +52,18 @@ for directory, subdirectories, files in os.walk(root_dir):
             if counter >  5:
                 print("Generation " + str(counter-5))
                 print(fit)
-                f.write(str(counter-5) + ",")
-                f.write(str(fit) + ",")
+                
+                string_gen = str(counter-5) + ','
+                string_fit = str(fit)
+                
+                f.write(string_gen + string_fit)
+                
+                f.flush()
+
             counter = counter + 1
             
         
-        f.flush()
+        
         f.close
         
         file_counter = file_counter + 1
