@@ -48,6 +48,12 @@ for directory, subdirectories, files in os.walk(root_dir):
         
         f= open("csv_out_"+str(file_counter)+".csv","w+")
         
+        parameter = "Parameter " + str(file_counter)
+        
+        #f.write(parameter + "\n")
+        
+        f.flush()
+        
         for fit in fitness:
             if counter >  5:
                 print("Generation " + str(counter-5))
@@ -56,7 +62,7 @@ for directory, subdirectories, files in os.walk(root_dir):
                 string_gen = str(counter-5) + ','
                 string_fit = str(fit)
                 
-                f.write(string_gen + string_fit)
+                f.write(parameter + "," + string_gen + string_fit)
                 
                 f.flush()
 
