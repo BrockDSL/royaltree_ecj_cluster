@@ -48,17 +48,18 @@ On a mini-cluster, we can take that time and slash it drastically by spreading o
 
 Solving this problem, allows us to use the library's available resources more effectively, e.g. instead of having computers sit idly and not be used, we can constantly be computing and thus getting more of out the existing machines. Solving this problem was a first step towards the ability to solve large real-world problems.
 
+\section{Methods and Process}
+Utilizing HPC Pack 2016, we can achieve a mini cluster capable of executing multiple operations with different parameters.\\
+
+INFO ABOUT HOW HPC CLUSTER WORKS
 
 
-\section{Set Up and Problem Information}
+\subsection{Setting Up Jobs}\label{AA}
+ECJ execution source files were placed into the network storage drive the head node has access to. In our sample we have nine separate instances of ECJ algorithm running with different parameters set. Thus nine separate parameter files were created and nine .bat files to execute each parameter set.
 
-The IEEEtran class file is used to format your paper and style the text. All margins, 
-column widths, line spaces, and text fonts are prescribed; please do not 
-alter them. You may note peculiarities. For example, the head margin
-measures proportionately more than is customary. This measurement 
-and others are deliberate, using specifications that anticipate your paper 
-as one part of the entire proceedings, and not as an independent document. 
-Please do not revise any of the current designations.
+Each of the .bat execution files are run through the HPC cluster on separate nodes dispatched by the head node.
+
+\subsection{Gathering Results}\label{AA}
 
 \section{Prepare Your Paper Before Styling}
 Before you begin to format your paper, first write and save the content as a 
