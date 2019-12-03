@@ -25,20 +25,32 @@ dsouvage@brocku.ca}
 \textit{Brock University}\\
 St. Catharines, Canada \\
 tribaric@brocku.ca}
+\and
+\IEEEauthorblockN{3\textsuperscript{rd} Santiago Franco}
+\IEEEauthorblockA{\textit{Digital Scholarship Lab} \\
+\textit{Brock University}\\
+St. Catharines, Canada \\
+sfranco@brocku.ca}
 }
 
 \maketitle
 
 \begin{abstract}
-This paper is meant to serve as a proof of concept for deploying ECJ programs to Brock University's  Library mini-cluster. The problem tested was the Royal Tree Problem, which is a useful benchmark program for genetic programming.
+This paper is meant to serve as a proof of concept and example use-case for deploying ECJ programs to Brock University's  Library mini-cluster, and why it is useful to use a mini-cluster versus running the problem on a desktop PC. The problem tested was the Royal Tree Problem, which is a useful benchmark program for genetic programming.
 \end{abstract}
 
 \section{Introduction}
+The department of Computer Science at Brock University uses Java Evolutionary Computation Toolkit(ECJ) for it's fourth year and graduate level genetic programming classes (COSC 4P82/5P71), and consequently is also pinnacle to a lot of graduate level research that goes on at Brock within the Computer Science department. \\
+
+One problem that consistently can come up with using toolkits like this is the length of time it takes to run operations, for example, if one needs to run an operation with 10 different parameters (to compare results of the different parameters for example) at least 5 times, at an operating time of 10mins, on a single computer it could take up to 500 minutes. This is a constant and real problem that occurs within the department.\\
+
+On a mini-cluster, we can take that time and slash it drastically by spreading out each parameter set to a node(Workstation in the cluster). This allows a variety of parameter sets to run synchronously. \\
+
+Solving this problem, allows us to use the library's available resources more effectively, e.g. instead of having computers sit idly and not be used, we can constantly be computing and thus getting more of out the existing machines. Solving this problem was a first step towards the ability to solve large real-world problems.
 
 
-\section{Ease of Use}
 
-\subsection{Maintaining the Integrity of the Specifications}
+\section{Set Up and Problem Information}
 
 The IEEEtran class file is used to format your paper and style the text. All margins, 
 column widths, line spaces, and text fonts are prescribed; please do not 
