@@ -11,26 +11,14 @@
     T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
 \begin{document}
 
-\title{Cluster based deployment of Royal Tree problem using ECJ\\
+\title{Cluster Computing for Humans White Paper: ECJ and the Royal Tree Problem
 }
 
-\author{\IEEEauthorblockN{1\textsuperscript{st} Dylan Souvage}
-\IEEEauthorblockA{\textit{Digital Scholarship Lab} \\
+\author{\IEEEauthorblockN{Digital Scholarship Lab}
+\IEEEauthorblockA{
 \textit{Brock University}\\
 St. Catharines, Canada \\
-dsouvage@brocku.ca}
-\and
-\IEEEauthorblockN{2\textsuperscript{nd} Tim Ribaric}
-\IEEEauthorblockA{\textit{Digital Scholarship Lab} \\
-\textit{Brock University}\\
-St. Catharines, Canada \\
-tribaric@brocku.ca}
-\and
-\IEEEauthorblockN{3\textsuperscript{rd} Santiago Franco}
-\IEEEauthorblockA{\textit{Digital Scholarship Lab} \\
-\textit{Brock University}\\
-St. Catharines, Canada \\
-sfranco@brocku.ca}
+dsl@brocku.ca}
 }
 
 \maketitle
@@ -50,15 +38,23 @@ Solving this problem, allows us to use the library's available resources more ef
 
 
 
-\section{Set Up and Problem Information}
+\section{Methods and Process}
+Utilizing HPC Pack 2016, we can achieve a mini cluster capable of executing multiple genetic algorithm instances with different parameters.\\
 
-The IEEEtran class file is used to format your paper and style the text. All margins, 
-column widths, line spaces, and text fonts are prescribed; please do not 
-alter them. You may note peculiarities. For example, the head margin
-measures proportionately more than is customary. This measurement 
-and others are deliberate, using specifications that anticipate your paper 
-as one part of the entire proceedings, and not as an independent document. 
-Please do not revise any of the current designations.
+The library cluster consists of NUMof on premise library computers which a head node dispatches jobs too. Each workstation node is non-dedicated to the cluster, and can be scheduled to become available during specific times outside of library hours.
+
+\subsection{What is ECJ}\label{BB}
+ECJ is an Evolutionary research computation system that is written in Java. The Framework supports a vast quantity of computational techniques and processes such as evolution strategies, genetic programming, genetic algorithms, co-evolution, and particle swarm optimization. The Framework uses a series of Pipelines to represent an iterative evolution for individuals with a selection process. It also provides operators for mutation and crossover techniques that represents breeding of another individual in a population. 
+
+\subsection{Setting Up Jobs}\label{AA}
+ECJ execution source files were placed into the network storage drive the head node has access to. In our sample we have nine separate instances of ECJ algorithm running with different parameters set. Thus nine separate parameter files were created and nine .bat files to execute each parameter set.
+
+Each of the .bat execution files are run through the HPC cluster on separate nodes dispatched by the head node.
+
+\subsection{Gathering Results}\label{CC}
+Once several Parameter files were created the program was run producing output files, Each output file contains some ECJ output text followed by a print out of each Generations best fitness score. Once the final generation was run an overall best generation and run fitness score was printed.\\
+
+The output text files contained useful data, but the file format with other filler text made processing the data difficult. Therefore some parsing and cleaning of the data was needed. Python was used to loop through each file in our folder producing a CSV file containing only the generation alongside the best fitness score. This allowed for the use of clean tabular data for the data processing and statistic gathering.
 
 \section{Prepare Your Paper Before Styling}
 Before you begin to format your paper, first write and save the content as a 
